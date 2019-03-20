@@ -4,3 +4,4 @@ Have lot of functions
 Can calculate permutations and Combinations as well
 Can calculate log as well.
 Awesome interface
+INTRFACE.png file depicts the interface
